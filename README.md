@@ -19,7 +19,7 @@ Por fim, nossa equipe de design implementou uma estilização objetiva e eficien
 - Arquitetura MSC
 
 ## Como testar localmente:
-1. Clone o repositório `https://github.com/lcoelhox/Dona-Tete-Delivery.git`
+1. Clone o repositório `https://github.com/arthurliberatti/Dona-Tetee-Delivery.git`
 2. Certifique-se que o node está na versão 16 ou superior, com comando: `node -v`
 3. Se não estiver na versão 16 basta usar o comando: `nvm use 16`
 4. Em seguida de o seguinte comando na raiz do projeto: `npm install`
